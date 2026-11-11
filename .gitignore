@@ -1,0 +1,16 @@
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local secrets and unreviewed material
+.env
+.env.*
+*.pem
+*.key
+private/
+scratch/
