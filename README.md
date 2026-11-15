@@ -12,11 +12,13 @@ These are troubleshooting records, not universal recipes. Confirmed observations
 | --- | --- | --- | --- |
 | Windows / Bluetooth | [8BitDo Pro 2 Bluetooth driver error on Windows 11 — Code 10](windows/bluetooth/8bitdo-pro-2-code-10.md) | Resolved | 2026-11-10 |
 | Windows / PowerShell | [fnm not recognized during Windows PowerShell 5.1 startup](windows/powershell/fnm-command-not-found.md) | Partially Resolved — Installation Confirmed, Final Fix Unverified | Not verified |
+| Hardware / Barcode scanners | [Alacrity scanner not connecting to its USB dongle](hardware/barcode-scanners/alacrity-usb-dongle-pairing.md) | Resolved — user-confirmed | Not recorded |
 
 ## Categories
 
 - **[Windows / Bluetooth](windows/bluetooth/)** — controller pairing and input-device troubleshooting.
 - **[Windows / PowerShell](windows/powershell/)** — shell profiles and development-tool initialization.
+- **[Hardware / Barcode scanners](hardware/barcode-scanners/)** — scanner connection modes and dedicated wireless receiver pairing.
 
 New categories are added when there is a real case to document. Use the operating system as the primary category for platform-specific problems; reserve categories such as hardware, software, networking, and homelab for cases whose main scope fits there. Keep one canonical article per problem and link to it rather than duplicating it across categories. Search this repository for a device name, exact error message, or error code.
 
